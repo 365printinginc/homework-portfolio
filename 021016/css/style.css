@@ -161,6 +161,10 @@ ul {
   padding: 20px 40px 0 40px;
 }
 
+li {
+  padding: 3px 0;
+}
+
 nav {
   text-align: center;
 }
